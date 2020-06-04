@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 83b97e5e9d10bab4ba66e90ebf94a6f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5790282115841080763
+    second: sprites_esqueletos copy_0
+  - first:
+      213: 4734700027449671844
+    second: sprites_esqueletos copy_1
+  - first:
+      213: 8092365657575901188
+    second: sprites_esqueletos copy_2
+  - first:
+      213: -5132553378347817420
+    second: sprites_esqueletos copy_3
+  - first:
+      213: 6103448282053169876
+    second: sprites_esqueletos copy_4
+  - first:
+      213: -784735764584247914
+    second: sprites_esqueletos copy_5
+  - first:
+      213: 3161236175982480439
+    second: sprites_esqueletos copy_6
+  - first:
+      213: -381399076651510680
+    second: sprites_esqueletos copy_7
+  - first:
+      213: 583641423438781408
+    second: sprites_esqueletos copy_8
+  - first:
+      213: -1799631010131079167
+    second: sprites_esqueletos copy_9
+  - first:
+      213: 8645227367521058093
+    second: sprites_esqueletos copy_10
+  - first:
+      213: 6158600522429904056
+    second: sprites_esqueletos copy_11
+  - first:
+      213: -8978951975546937952
+    second: sprites_esqueletos copy_12
+  - first:
+      213: 4260498756687727059
+    second: sprites_esqueletos copy_13
+  - first:
+      213: 5761860450405952109
+    second: sprites_esqueletos copy_14
+  - first:
+      213: -4812211140799161512
+    second: sprites_esqueletos copy_15
+  - first:
+      213: 2301635576517649328
+    second: sprites_esqueletos copy_16
+  - first:
+      213: 3606853186861758528
+    second: sprites_esqueletos copy_17
+  - first:
+      213: -4824188310962689519
+    second: sprites_esqueletos copy_18
+  - first:
+      213: -704916607292968824
+    second: sprites_esqueletos copy_19
+  - first:
+      213: -6008662754873783474
+    second: sprites_esqueletos copy_20
+  - first:
+      213: -4677265305655766080
+    second: sprites_esqueletos copy_21
+  - first:
+      213: 6857112022175927391
+    second: sprites_esqueletos copy_22
+  - first:
+      213: -2221042409579210505
+    second: sprites_esqueletos copy_23
+  - first:
+      213: 7298851441776191309
+    second: sprites_esqueletos copy_24
+  - first:
+      213: -7557390906988950660
+    second: sprites_esqueletos copy_25
+  - first:
+      213: -2355864192750512010
+    second: sprites_esqueletos copy_26
+  - first:
+      213: 4824000985659703162
+    second: sprites_esqueletos copy_27
+  - first:
+      213: 7152473427723014594
+    second: sprites_esqueletos copy_28
+  - first:
+      213: -1187767030072032919
+    second: sprites_esqueletos copy_29
+  - first:
+      213: 5980984730390402691
+    second: sprites_esqueletos copy_30
+  - first:
+      213: 6340871768826715890
+    second: sprites_esqueletos copy_31
+  - first:
+      213: 3616010813203983026
+    second: sprites_esqueletos copy_32
+  - first:
+      213: -8420813714189294626
+    second: sprites_esqueletos copy_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 564
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30e5e201980e394da869a1074efe2fa
+      internalID: -5790282115841080763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 564
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d754125e06e424da3d2bfa23904344
+      internalID: 4734700027449671844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 561
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260da8fb5936bb46addacbd5e363e83
+      internalID: 8092365657575901188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 561
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c21c72d861004a918d644b014b9e0
+      internalID: -5132553378347817420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 560
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7024c1d29bcfd8489c445f2270395d0
+      internalID: 6103448282053169876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 564
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e4de19c993dab4fb7a0a875e1efc0c
+      internalID: -784735764584247914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 416
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136236c788e19d4ab4a2a835fe5c249
+      internalID: 3161236175982480439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 412
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6fd94398ac114bafa3c2412750a53
+      internalID: -381399076651510680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 413
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513936a62ddd4e94c8e594a28e4443cf
+      internalID: 583641423438781408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 413
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f5bf1c5f41f64880611367e87bb8f
+      internalID: -1799631010131079167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_10
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 415
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cb277f8b562be438e4be9d9f8726c1
+      internalID: 8645227367521058093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 416
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a3bf84dcd9d5d43a5965a142da33a2
+      internalID: 6158600522429904056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 261
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466c10ab58d5ce4f92f042a99fbe72b
+      internalID: -8978951975546937952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 259
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb183d913af922e42ba9e40493f1bc9d
+      internalID: 4260498756687727059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 308
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4780da07d3bd5e24fb796a9b14dbf98c
+      internalID: 5761860450405952109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 259
+        width: 118
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1fd8fe721ab79498926bf019ba9f1f
+      internalID: -4812211140799161512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 259
+        width: 118
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea61b55d6dcb44a80d95bce1a648a4
+      internalID: 2301635576517649328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_17
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 308
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d1055b1376e8b49a16d73d383c9cde
+      internalID: 3606853186861758528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 259
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e5835a34070d4d9ffdbaf77454184
+      internalID: -4824188310962689519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_19
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 261
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6cffbf9441bf440b70f06d7cfe3b4d
+      internalID: -704916607292968824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 204
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0012e69c3446e0499ad63d4e8b4a229
+      internalID: -6008662754873783474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535cf004662da9438f7e4709d23bf05
+      internalID: -4677265305655766080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 204
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189378306d45e3e418dd8904d1589c53
+      internalID: 6857112022175927391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 204
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f0bd694cc9b6b419bf772de5741088
+      internalID: -2221042409579210505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dd803abaea8346a58d99b6b5c10fa
+      internalID: 7298851441776191309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c108db72cf634db936cb620b4d1a3
+      internalID: -7557390906988950660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 197
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df747670b6311b1429d6a5ac4962263f
+      internalID: -2355864192750512010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 197
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe7f10fd05c9a4195368837c913dd2
+      internalID: 4824000985659703162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 37
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8fb9d0c6794b24aa713934bbcf5d54
+      internalID: 7152473427723014594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 37
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a29ebecd25df49b3f81469f341850
+      internalID: -1187767030072032919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_30
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 37
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4010d2a0d06040740a299a1cc2bf3e2d
+      internalID: 5980984730390402691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 37
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c3722d858bbd742aaa9adc4d4085d2
+      internalID: 6340871768826715890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 26
+        width: 131
+        height: 210
+      alignment: 9
+      pivot: {x: 0.63424844, y: 0.38036385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b3ae534325ef84f82b7710443d8bda
+      internalID: 3616010813203983026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_esqueletos copy_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 28
+        width: 142
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4764099, y: 0.3723881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6657e88892faeb4c8e45c0d41b69f67
+      internalID: -8420813714189294626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 3ee9f74219421a146b6c448fda59fdcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2904353738863064338
+    second: sprites_maria copy 3_0
+  - first:
+      213: 5448663103362540177
+    second: sprites_maria copy 3_1
+  - first:
+      213: -9221535949417048962
+    second: sprites_maria copy 3_2
+  - first:
+      213: 5077284653632804843
+    second: sprites_maria copy 3_3
+  - first:
+      213: 100719267003932844
+    second: sprites_maria copy 3_4
+  - first:
+      213: -1239247354190039728
+    second: sprites_maria copy 3_5
+  - first:
+      213: 2903640767256421218
+    second: sprites_maria copy 3_6
+  - first:
+      213: 4979192108297140148
+    second: sprites_maria copy 3_7
+  - first:
+      213: 3352092834490795926
+    second: sprites_maria copy 3_8
+  - first:
+      213: -606419497568851853
+    second: sprites_maria copy 3_9
+  - first:
+      213: -4175444040419773446
+    second: sprites_maria copy 3_10
+  - first:
+      213: -7426535381550843055
+    second: sprites_maria copy 3_11
+  - first:
+      213: 9023760984026053526
+    second: sprites_maria copy 3_12
+  - first:
+      213: 1897640043825458173
+    second: sprites_maria copy 3_13
+  - first:
+      213: 5600340921729937173
+    second: sprites_maria copy 3_14
+  - first:
+      213: 2375427289455652634
+    second: sprites_maria copy 3_15
+  - first:
+      213: -5600497093252945880
+    second: sprites_maria copy 3_16
+  - first:
+      213: 8217855754999244936
+    second: sprites_maria copy 3_17
+  - first:
+      213: -263005932595347493
+    second: sprites_maria copy 3_18
+  - first:
+      213: -2844457963515631330
+    second: sprites_maria copy 3_19
+  - first:
+      213: 6842377520448918993
+    second: sprites_maria copy 3_20
+  - first:
+      213: 5225555015051587295
+    second: sprites_maria copy 3_21
+  - first:
+      213: -4198283107454591009
+    second: sprites_maria copy 3_22
+  - first:
+      213: 3952962208552565337
+    second: sprites_maria copy 3_23
+  - first:
+      213: -4047162412874627444
+    second: sprites_maria copy 3_24
+  - first:
+      213: 1815230498473380060
+    second: sprites_maria copy 3_25
+  - first:
+      213: 3926962726828125494
+    second: sprites_maria copy 3_26
+  - first:
+      213: -4722853972810392361
+    second: sprites_maria copy 3_27
+  - first:
+      213: -4577697525788281305
+    second: sprites_maria copy 3_28
+  - first:
+      213: -5615123208143636427
+    second: sprites_maria copy 3_29
+  - first:
+      213: 2619481308611126233
+    second: sprites_maria copy 3_30
+  - first:
+      213: -6659203424864394979
+    second: sprites_maria copy 3_31
+  - first:
+      213: -1812301252310269905
+    second: sprites_maria copy 3_32
+  - first:
+      213: 1455260561479911321
+    second: sprites_maria copy 3_33
+  - first:
+      213: 8002833373510767144
+    second: sprites_maria copy 3_34
+  - first:
+      213: -485634611823433780
+    second: sprites_maria copy 3_35
+  - first:
+      213: -8761455304937068142
+    second: sprites_maria copy 3_36
+  - first:
+      213: -2303714957202408432
+    second: sprites_maria copy 3_37
+  - first:
+      213: -1382236169758512969
+    second: sprites_maria copy 3_38
+  - first:
+      213: 1652864890494789336
+    second: sprites_maria copy 3_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_maria copy 3_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1591
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f94a0d68800e8b4f88262df8e207bf0
+      internalID: 2904353738863064338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1592
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3541d345f62a85c4d8a1a41afc4c2147
+      internalID: 5448663103362540177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1593
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80603ad27105b044fad097015cef36f8
+      internalID: -9221535949417048962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1590
+        width: 103
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b3e5f64b3d544984724cf0df07c95
+      internalID: 5077284653632804843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1454
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd60fae8f275898459a3ce4ba887c575
+      internalID: 100719267003932844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1456
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c015c6ef7246b43bd47c297488fb37
+      internalID: -1239247354190039728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1453
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599352d708d209c42b94a9bde91b4a84
+      internalID: 2903640767256421218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1291
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c106a1ceb81cd24996a8cda4d2446cf
+      internalID: 4979192108297140148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1296
+        width: 151
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17793322c609dc14485b57ccf71104c4
+      internalID: 3352092834490795926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1297
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b789c9d79d0e94fbe85fdb31040df6
+      internalID: -606419497568851853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1297
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ed132a2fe5c747b11a304239ace3b
+      internalID: -4175444040419773446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_11
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1221
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09179e4082ce64daf02b8d12efd1bc
+      internalID: -7426535381550843055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 968
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae8ce2951afeb45a2e87d2a4a3f2f7
+      internalID: 9023760984026053526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 971
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c52f01a6072a1e45ba68046fbc68189
+      internalID: 1897640043825458173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 972
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d34ecc07b836746a3b8cf35bd6bea8
+      internalID: 5600340921729937173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 971
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591022fbc8c2b242a553d8642062588
+      internalID: 2375427289455652634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 818
+        width: 147
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a1ffbbbf2fcde4ea079ff9f2290140
+      internalID: -5600497093252945880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 818
+        width: 168
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25bdf522fafdc1469c90b3fcc81145d
+      internalID: 8217855754999244936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 818
+        width: 148
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa63907b7a9c27349b5d25f25ffaf828
+      internalID: -263005932595347493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 818
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c393da3f426749b47b5c6d4c7a406614
+      internalID: -2844457963515631330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 658
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e493de587f412e479c64cc195acc64d
+      internalID: 6842377520448918993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 658
+        width: 167
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ebb4aea09c2a44804f064fc4fd210
+      internalID: 5225555015051587295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 657
+        width: 147
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e567282cddf828b46841fcba6bd245b4
+      internalID: -4198283107454591009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_23
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 657
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0333e3447e8a3d44a2f85a1170c2ae2
+      internalID: 3952962208552565337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 495
+        width: 138
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db29df9ba7160be4b8be6bb0ca0af7b2
+      internalID: -4047162412874627444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 495
+        width: 162
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6eeeb3357f8f74e867b8c7934b7683
+      internalID: 1815230498473380060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 495
+        width: 141
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7323fd81040f24abe531f35eda9dd4
+      internalID: 3926962726828125494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 495
+        width: 115
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2ff5fa1508da74cb18ef2b9c83f96b
+      internalID: -4722853972810392361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 349
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b25c24b1c6a5f4bb7a6cb46a11a06f
+      internalID: -4577697525788281305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 349
+        width: 159
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f063ac33c2f64f8d80c3e6d31be29
+      internalID: -5615123208143636427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_30
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 349
+        width: 139
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21575c0859408845a61922d2a524421
+      internalID: 2619481308611126233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 349
+        width: 110
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab0d581dff21a3459f621089130f2b6
+      internalID: -6659203424864394979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 183
+        width: 141
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf5fdf7d6a308448e2209c4d6d809c
+      internalID: -1812301252310269905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 183
+        width: 165
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aa332253403504c8f03074048af4ff
+      internalID: 1455260561479911321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 183
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b069276408907d941817c71a22aa773b
+      internalID: 8002833373510767144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 183
+        width: 116
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2066a2a9cbc83444ac66bc9b295a64e
+      internalID: -485634611823433780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 30
+        width: 147
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6afa19565f9034a930e88799f6f6a8
+      internalID: -8761455304937068142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 166
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14774884cc769e14d911191d25e7598a
+      internalID: -2303714957202408432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 30
+        width: 148
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28402a3207aeb499b4e56e0c74ec19
+      internalID: -1382236169758512969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_maria copy 3_39
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 30
+        width: 123
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923d5def936db2b4d8499eab6c0fbd42
+      internalID: 1652864890494789336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
